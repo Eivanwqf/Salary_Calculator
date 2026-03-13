@@ -3,16 +3,12 @@ import matplotlib.pyplot as plt
 
 
 # 每日工资x + 每d天, 有b奖金。
-# daily = input("你每天的收入是: ")
-# daily = int(daily)
-# per_day_get_bonus = input("你每工作[？]天就可以拿到奖金")
-# per_day_get_bonus = int(per_day_get_bonus)
-# bonus = input("奖金是: ")
-# bonus = int(bonus)
-
-daily = 120
-per_day_get_bonus = 10
-bonus = 1000
+daily = input("你每天的收入是: ")
+daily = int(daily)
+per_day_get_bonus = input("你每工作[？]天就可以拿到奖金")
+per_day_get_bonus = int(per_day_get_bonus)
+bonus = input("奖金是: ")
+bonus = int(bonus)
 
 plt.rcParams["font.sans-serif"] = ["SimHei"]   # 黑体
 plt.rcParams["axes.unicode_minus"] = False
