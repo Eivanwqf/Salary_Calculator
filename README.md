@@ -36,4 +36,4 @@ python run_analysis.py
 图表保存为 `salary_analysis.png`
 
 ## 图例：
-![salary_figure](images/salary_analysis.png)
+![salary_figure](./salary_analysis.png)
