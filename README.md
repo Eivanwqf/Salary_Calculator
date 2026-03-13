@@ -34,3 +34,5 @@ python run_analysis.py
 4. 工作天数 vs 总奖金
 
 图表保存为 `salary_analysis.png`
+
+## 图例：
